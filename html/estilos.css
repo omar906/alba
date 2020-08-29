@@ -146,3 +146,25 @@ header{
     padding: 10px 10px;
     margin: 10px 10px;
 }
+.link{
+    text-align: center;
+    float: left;
+    width: 100%;
+    height: auto;
+    background-color: yellow;
+    padding: 80px 90px;
+   
+}
+.listas{
+    text-align: center;
+    float: left;
+    width: 100%;
+    height: auto;
+    background-color: slategray;
+    padding: 60px 60px;
+}
+.lista{
+    float: left;
+}
+
+
